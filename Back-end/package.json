@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "knex": "^0.20.13",
     "sqlite3": "^4.1.1",
-    "snyk": "^1.360.0"
+    "snyk": "^1.667.0"
   },
   "devDependencies": {
     "jest": "^25.2.3",
